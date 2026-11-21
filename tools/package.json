@@ -1,0 +1,12 @@
+{
+  "name": "love-exe-tools",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "music": "node make-music.mjs",
+    "og": "python make-og.py"
+  },
+  "dependencies": {
+    "@breezystack/lamejs": "^1.2.7"
+  }
+}
